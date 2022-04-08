@@ -1,0 +1,4 @@
+Stroka.h Stroka.cpp - Класс Stroka из пункта 1)
+FileFunctions.cpp - Пункт 2)
+Encoding.cpp - пункт 3)
+StreamState.cpp - пункт 4)
